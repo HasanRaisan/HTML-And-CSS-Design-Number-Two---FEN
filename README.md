@@ -24,4 +24,7 @@ This project is mainly for **learning purposes**, but I’m proud of the progres
 ---
 
 ## 🚀 Preview
+[Image one](https://drive.google.com/uc?id=11oSxx-IG9x-xRLXwedsyOGnnwcGvqR8s)
+
+[Image Two](https://drive.google.com/uc?id=1Fub--j-Qt9nurqWPm8UjQqKfBB1-G25c)
 
